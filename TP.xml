@@ -18,7 +18,7 @@
         <unit_prices>1.99</unit_prices>
         <total_prices>59.99</total_prices>
     </invoice>
-    <invoice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TP.xsd">
+    <invoice>
         <invoice_number>sdaqsd78az</invoice_number>
         <invoice_date>31/03/2000</invoice_date>
         <seller_name>Watashi na wa "Kira yoshikage" nenrei 33-sai</seller_name>
